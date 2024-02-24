@@ -1,3 +1,4 @@
 FSW RESOLUSI
 -konsis membuat project
 -membuat repository
+-menambah income
